@@ -8,6 +8,7 @@ Writing and consulting: [jitinkapila.com](https://www.jitinkapila.com/)
 
 - **[mltreelib](https://github.com/jkapila/mltreelib)** — tree-based and regression ML with a Rust core and a Python API. Missing data is first class, with no scikit-learn dependency. [Docs](https://jkapila.github.io/mltreelib/)
 - **[featuregen](https://github.com/jkapila/featuregen)** — feature generation for large-scale forecasting.
+- **[pygemodels](https://github.com/jkapila/pygemodels)** — growth and epidemiology models in Python.
 
 ## Stats
 
